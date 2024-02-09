@@ -15,7 +15,9 @@
   "license": "ISC",
   "devDependencies": {
     "@faker-js/faker": "^8.4.0",
-    "concurrently": "^8.2.2"
+    "concurrently": "^8.2.2",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react": "^7.33.2"
   },
   "dependencies": {
     "@apollo/client": "^3.9.3",
